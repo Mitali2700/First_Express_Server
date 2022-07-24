@@ -1,0 +1,20 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "My first express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitali2700/First_Express_Server.git"
+  },
+  "author": "Mitali Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitali2700/First_Express_Server/issues"
+  },
+  "homepage": "https://github.com/Mitali2700/First_Express_Server#readme"
+}
