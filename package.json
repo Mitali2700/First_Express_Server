@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mitali2700/First_Express_Server/issues"
   },
-  "homepage": "https://github.com/Mitali2700/First_Express_Server#readme"
+  "homepage": "https://github.com/Mitali2700/First_Express_Server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
