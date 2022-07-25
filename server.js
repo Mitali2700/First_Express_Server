@@ -14,7 +14,7 @@ app.get("/contact", function(request,response){
 
 app.get("/about", function(request,response){
     //console.log(request);
-    response.send("<h3>I am Mitali Gupta a passionate front end developer from India</h3>");
+    response.send("<h3>I am Mitali Gupta a passionate front end developer and I love Kajukatli.</h3>");
 });
 
 app.get("/hobbies", function(request,response){
